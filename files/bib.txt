@@ -1,0 +1,11 @@
+@article{fureciprocal,
+  title={Reciprocal translation between SAR and optical remote sensing images with cascaded-residual adversarial networks},
+  author={Fu, Shilei and Xu, Feng and Jin, Ya-Qiu},
+  journal={SCIENCE CHINA Information Sciences},
+  volume={64},
+  number={2},
+  year={2021},
+  pages={122301},
+  doi={10.1007/s11432-020-3077-5},
+  publisher={Science China Press}
+}
